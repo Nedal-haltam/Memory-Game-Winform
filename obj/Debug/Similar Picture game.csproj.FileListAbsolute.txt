@@ -1,0 +1,11 @@
+D:\c++ projects\Similar Picture game\bin\Debug\Similar Picture game.exe.config
+D:\c++ projects\Similar Picture game\bin\Debug\Similar Picture game.exe
+D:\c++ projects\Similar Picture game\bin\Debug\Similar Picture game.pdb
+D:\c++ projects\Similar Picture game\obj\Debug\Similar Picture game.csproj.AssemblyReference.cache
+D:\c++ projects\Similar Picture game\obj\Debug\Similar_Picture_game.Form1.resources
+D:\c++ projects\Similar Picture game\obj\Debug\Similar_Picture_game.Form2.resources
+D:\c++ projects\Similar Picture game\obj\Debug\Similar_Picture_game.Properties.Resources.resources
+D:\c++ projects\Similar Picture game\obj\Debug\Similar Picture game.csproj.GenerateResource.cache
+D:\c++ projects\Similar Picture game\obj\Debug\Similar Picture game.csproj.CoreCompileInputs.cache
+D:\c++ projects\Similar Picture game\obj\Debug\Similar Picture game.exe
+D:\c++ projects\Similar Picture game\obj\Debug\Similar Picture game.pdb
